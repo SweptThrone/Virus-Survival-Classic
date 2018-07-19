@@ -1,0 +1,8 @@
+"virus_survival"
+{
+	"base"		"base"
+	"title"		"Virus Survival"
+	"maps"		""
+	"menusystem"	"1"
+	"workshopid"	"1397977042"
+}
