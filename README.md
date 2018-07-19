@@ -13,6 +13,9 @@ I'm not gonna officially stick a license on it because I don't care that much, b
 ### What else does this need?
 You'll need to send the content of these addons to your connecting clients for them to hear anything properly:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1397977042
+The server itself needs these for the gamemode to work properly:
+https://steamcommunity.com/workshop/filedetails/?id=415143062
+https://steamcommunity.com/workshop/filedetails/?id=151583504
 
 ### Where's the workshop version?
 https://steamcommunity.com/sharedfiles/filedetails/?id=1397977042
