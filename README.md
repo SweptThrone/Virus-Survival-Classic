@@ -1,5 +1,4 @@
 # Virus Survival
-A custom FA:S-based gamemode I worked on during winter break-ish.  Extremely hard-coded, I'm planning to release a "developer" version.
 
 ### What is it?
 Virus Survival is a gamemode based on GMod Tower Virus, which in turn is based on Timesplitters, mashed with weapons from Zombie Survival.
