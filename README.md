@@ -1,5 +1,11 @@
 # Virus Survival
 
+### HEAD'S UP
+This gamemode is very old and very bad.  
+It hardly works and I had almost no experience doing anything on this scale at the time of creation.  
+I can't recommend you actually use this on a server unless you do some serious revising.  
+I probably won't be improving it any time soon.
+
 ### What is it?
 Virus Survival is a gamemode based on GMod Tower Virus, which in turn is based on Timesplitters, mashed with weapons from Zombie Survival.
 
