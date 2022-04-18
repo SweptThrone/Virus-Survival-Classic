@@ -1,4 +1,4 @@
-# Virus Survival
+# Virus Survival Classic
 
 ### HEADS UP
 This gamemode is very old and very bad.  
